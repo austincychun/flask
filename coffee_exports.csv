@@ -1,0 +1,16 @@
+Country,Year,Export_Tons,Export_Value_USD,Region
+Brazil,2020,2450000,5150000000,South America
+Vietnam,2020,1650000,3300000000,Asia
+Colombia,2020,840000,1860000000,South America
+Ethiopia,2020,450000,950000000,Africa
+Honduras,2020,390000,810000000,Central America
+Brazil,2021,2550000,5300000000,South America
+Vietnam,2021,1700000,3400000000,Asia
+Colombia,2021,860000,1920000000,South America
+Ethiopia,2021,460000,970000000,Africa
+Honduras,2021,400000,830000000,Central America
+Brazil,2022,2600000,5450000000,South America
+Vietnam,2022,1750000,3500000000,Asia
+Colombia,2022,880000,1980000000,South America
+Ethiopia,2022,470000,990000000,Africa
+Honduras,2022,410000,850000000,Central America
